@@ -78,15 +78,15 @@ The analysis focuses on the 2017 and 2018 flight activity period where applicabl
 
 1. Flight Activity Analysis
 This page analyses flight booking patterns over time and points redeemed for flights involving companions.
-<img width="1920" height="1020" alt="Flight_activity_dashboard" src="https://github.com/user-attachments/assets/821bc4b5-44e5-4f66-bc5c-d83179042ff6" />
+<img width="1362" height="758" alt="Flight_activity_dashboard" src="https://github.com/user-attachments/assets/3a143860-3c65-459a-bde9-1f39aefde40b" />
 
 2. Customer Loyalty Segmentation
 This page compares loyalty card categories, customer demographics, flight activity, median travel distance and customer lifetime value.
-<img width="1920" height="1020" alt="Loyalty_segmentation_dashboard" src="https://github.com/user-attachments/assets/5fc597ab-e36c-4296-8ad5-885e913fd06c" />
+<img width="1425" height="756" alt="Loyalty_segmentation_dashboard" src="https://github.com/user-attachments/assets/32b99126-c5a3-4986-9913-544c6a0c28e6" />
 
 3. Enrollment and Cancellation
 This page examines membership cancellations, cancellation patterns by month and enrollment duration across loyalty card categories and provinces.
-<img width="1920" height="1020" alt="Enrollment_cancellation_dashboard" src="https://github.com/user-attachments/assets/2c0ed346-a1e8-4596-aa18-e91f75729aa8" />
+<img width="1376" height="753" alt="Enrollment_cancellation_dashboard" src="https://github.com/user-attachments/assets/502edd9a-887c-4dc2-865c-e0c0fdca8bc2" />
 
 4. Data Model
 The data model used for the Power BI report.
@@ -100,4 +100,4 @@ The data model used for the Power BI report.
   
 ## Author
 
-Muhammad Zain Akbar
+Muhammad Zain 
