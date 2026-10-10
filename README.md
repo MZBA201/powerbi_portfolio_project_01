@@ -94,9 +94,9 @@ The data model used for the Power BI report.
 
 
 ## Project Files
-Download the Power BI report
-View the presentation of findings and recommendations
-Read the original case study and business questions
+- Download the Power BI report
+- View the presentation of findings and recommendations
+- Read the original case study and business questions
 
 ## Author
 
