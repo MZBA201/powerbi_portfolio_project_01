@@ -94,9 +94,11 @@ The data model used for the Power BI report.
 
 
 ## Project Files
-- Download the Power BI report (.pbix)
-- View the presentation of findings (.pptx)
-- Read the original case study (.pdf)
+Download the Power BI report (.pbix)
+
+View the presentation of findings (.pptx)
+
+Read the original case study (.pdf)
 
 ## Author
 
