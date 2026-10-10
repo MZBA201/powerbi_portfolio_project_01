@@ -94,12 +94,10 @@ The data model used for the Power BI report.
 
 
 ## Project Files
-Download the Power BI report (.pbix)
-
-View the presentation of findings (.pptx)
-
-Read the original case study (.pdf)
-
+- [Download the Power BI report (.pbix)](./ZainAkbar_PortfolioProject_03.pbix)
+- [View the presentation of findings (.pptx)](./ZainAkbar-PortfolioProject03.pptx)
+- [Read the original case study (.pdf)](./FlyingWhale%20Airline%20Case%20Study.pdf)
+  
 ## Author
 
 Muhammad Zain Akbar
