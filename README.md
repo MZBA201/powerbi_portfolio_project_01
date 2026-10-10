@@ -78,7 +78,8 @@ The analysis focuses on the 2017 and 2018 flight activity period where applicabl
 
 1. Flight Activity Analysis
 This page analyses flight booking patterns over time and points redeemed for flights involving companions.
-<img width="1362" height="758" alt="Flight_activity_dashboard" src="https://github.com/user-attachments/assets/3a143860-3c65-459a-bde9-1f39aefde40b" />
+<img width="1362" height="758" alt="Flight_activity_dashboard" src="https://github.com/user-attachments/assets/ab5ea6a2-8e0d-4eb8-baf8-16c03e53665c" />
+
 
 2. Customer Loyalty Segmentation
 This page compares loyalty card categories, customer demographics, flight activity, median travel distance and customer lifetime value.
